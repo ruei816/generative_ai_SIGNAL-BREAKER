@@ -1,5 +1,3 @@
-# generative_ai_SIGNAL-BREAKER
-SIGNAL BREAKER訊號攔截
 # SIGNAL BREAKER
 
 **RHYTHM SIGNAL SYSTEM**
@@ -242,18 +240,9 @@ SIGNAL-BREAKER/
 
 ## 如何執行
 
-### 方法一：直接開啟
+### 方法一：直接開啟 Github pages連結
 
-1. 下載或 Clone 專案。
-2. 找到 `index.html`。
-3. 使用 Chrome、Edge 或其他現代瀏覽器開啟。
-4. 進入遊戲首頁即可選擇模式並開始遊玩。
-
-### 方法二：使用 VS Code
-
-1. 使用 VS Code 開啟專案資料夾。
-2. 開啟 `index.html`。
-3. 使用瀏覽器開啟該 HTML 檔案。
+### 方法二：下載專案，打開index.html
 
 本專案目前不需要：
 
